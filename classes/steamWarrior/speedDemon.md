@@ -13,3 +13,7 @@ At the expense of 2 levels of gas you can propel yourself a distance of your mov
 
 ### Flight
 *Only when combined with wingsuit* A speeddemon can launch themselves into the air 20ft at the cost of 4 levels of gas, after this they can glide further. As your furnace is heavy you gain no levels of gas during flight as this is directly used to make sure you don’t plummet down.
+
+## Level 4
+### Spinning annihilation
+At the expense of 2 gas you can making an attack while spinning round, this causes everyone within 5ft to be hit by this attack.

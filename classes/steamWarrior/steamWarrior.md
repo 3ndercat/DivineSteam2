@@ -50,3 +50,11 @@ Use gas to enchance your strength, assist your muscles with the pure power of st
 ### The pyrotechnician
 Adds a highly volatile flammable liquid to your steam engine. Become a walking flamethrower.
 [Full file](pyroTechnician.md)
+
+## Level 3
+### Overcharge
+Once per long rest you can push more oxygen into the oven causing it to burn harder. This causes your level in fire damage to you and everyone standing next to you every turn. Your gas production doubles during this time. Max 5 rounds but can be stopped earlier.
+
+## Level 4
+### Gas increase
+You can now hold up to 6 levels of gas
