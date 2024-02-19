@@ -2,4 +2,5 @@
 # Classes
 
 These are all the classes currently available:<br>
-[Steamwarrior](/classes/steamWarrior/steamWarrior.md)
+[Steamwarrior](/classes/steamWarrior/steamWarrior.md)<br>
+[Rogue](/classes/rogue/rogue.md)
