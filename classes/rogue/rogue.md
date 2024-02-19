@@ -41,3 +41,14 @@ You have mastered the art of silently killing people<br>
 
 ### Thief
 [Full file](thief.md)
+
+## Level 3
+### Cunning action
+You can take a bonus action to use dash, disengage or hide. Dash and disengage takes one level of gas as the gas propels you.
+
+### Sleep tight
+You have a garot you can use to kill someone(without rolling dice) if they don't see you coming.
+
+## Level 4
+### Gas increase
+You can now hold up to 4 levels of gas
