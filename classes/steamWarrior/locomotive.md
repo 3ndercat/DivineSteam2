@@ -1,5 +1,5 @@
-# Locomotive
 [Go back to class](steamWarrior.md)
+# Locomotive
 
 +1 Str
 

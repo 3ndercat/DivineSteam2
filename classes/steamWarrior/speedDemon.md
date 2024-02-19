@@ -1,5 +1,5 @@
-# SpeedDemon
 [Go back to class](steamWarrior.md)
+# SpeedDemon
 +5 Movement speed
 
 ### Disengage

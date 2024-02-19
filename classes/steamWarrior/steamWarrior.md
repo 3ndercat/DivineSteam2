@@ -1,3 +1,4 @@
+[Go back to classes](../classes.md)
 # SteamWarrior
 
 ### Hit dice: 1d10 per level

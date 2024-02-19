@@ -1,5 +1,5 @@
-# PyroTechnician
 [Go back to class](steamWarrior.md)
+# PyroTechnician
 
 Resistance to deafness<br>
 Proficiency chemical supplies<br>
