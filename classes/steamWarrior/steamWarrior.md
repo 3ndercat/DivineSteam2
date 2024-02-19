@@ -41,7 +41,7 @@ At second level you choose the training that your warrior went through.
 
 ### Speeddemon
 You use the gas to amplify your speed, you become a low weight speed seeker.
-[Full file](steamWarrior.md)
+[Full file](speedDemon.md)
 
 ### The locomotive
 Use gas to enchance your strength, assist your muscles with the pure power of steam.
