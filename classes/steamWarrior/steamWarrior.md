@@ -44,7 +44,7 @@ You use the gas to amplify your speed, you become a low weight speed seeker.
 
 ### The locomotive
 Use gas to enchance your strength, assist your muscles with the pure power of steam.
-[Full file](locomtive.md)
+[Full file](locomotive.md)
 
 ### The pyrotechnician
 Adds a highly volatile flammable liquid to your steam engine. Become a walking flamethrower.
