@@ -27,7 +27,16 @@ Fleet
 At second level you decide in which type of fleet your character has been his life.
 
 ### Globetrotter
-[full file](globeTrotter.md)
+[Full file](globeTrotter.md)
 
 ### Eagle
-[full file](eagle.md)
+[Full file](eagle.md)
+
+## Level 3
+### Sea legs
+You have incredible balance, you cannot fall over due to the ground shuddering or being pushed.
+
+## Level 4
+### Air nimbleness
++2 dexterity<br>
+When sky gliding or flying with the wing suit your forward movement per down movement doubles
