@@ -48,3 +48,7 @@ A little device that can pick up radio waves and translate them into audio.
 Sending Radio
 Cost: 400gp
 A big device that can turn audio into radio waves and send them away. Everyone with a radio can pick these waves up.
+
+Fuel
+Cost: 5gp
+A thick black substance that burns very easily. Comes in a flask.
