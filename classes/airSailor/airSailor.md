@@ -2,7 +2,7 @@
 # Airsailor
 The airsaliors are the trusty crew aboard the airships that scale the world. They are equipped with endless knowledge about the world and the weather.
 
-### Hit dice: 1d8 1.5 per level rounded down
+### Hit dice: 1d8 1 level
 
 ### Proficiencies
 Armor: Light armor<br>
