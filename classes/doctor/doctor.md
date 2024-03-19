@@ -20,27 +20,16 @@ Abilities that are behind other abilities in the tree can only be unlocked if th
 title: Animal example
 ---
 classDiagram
-    note "From Duck till Zebra"
-    Animal <|-- Duck
-    note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
-    class Duck{
-        +String beakColor
-        +swim()
-        +quack()
+    Heal <|-- Start
+    Damage <|-- Start
+    class Start{
+        
     }
-    class Fish{
-        -int sizeInFeet
-        -canEat()
+    class Heal{
+        
     }
-    class Zebra{
-        +bool is_wild
-        +run()
+    class Damage{
+        
     }
 
 ```
