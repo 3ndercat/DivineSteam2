@@ -19,7 +19,7 @@ A device that can be equipped to the head, when needed the mechanic can go up to
 When spending an upgrade point this can be increased to five turns.<br>
 Recharging can be done during a short rest.
 
-### Flamy breath
+### Flamy breath (Level3+)
 An attachment to the inside of the mouth with which fire can spewed from the mouth. This can shoot in a 15 ft cone. The creatures in this area take 1d6 fire damage.<br>
 It needs to be loaded up with an oil flask, from this 5 shots can be fired.
 
@@ -45,10 +45,10 @@ Only two can be carried at a time.<br>
 ### Trip wire
 A device that can be installed on two walls being no more than 10ft apart. When a creature walks between these devices a radio signal is sent to the mechanic. 
 
-### Tesla coil bomb 
+### Tesla coil bomb (Level 4+)
 A cylindrical device that electrocutes those who come near it. Can be thrown during combat to an area within 30ft.<br>
 The device electrocutes everything within 10ft.<br>
 Those in this area receive 1d4 lightning damage when entering or starting the turn. They also cant have advantage while in the area.
 
-### Auto lockpicker
+### Auto lockpicker (Level 2+)
 A small device that can be hooked on to doorlock that will unlock the door in 2+1d4 turns(Rolled by DM).
