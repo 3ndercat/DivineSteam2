@@ -23,6 +23,7 @@ Some devices require materials or can only be used infrequently.<br>
 Devices can be level-locked, this means they can only be obtained when the mechanic level is above a certain point(This is next to the device its name, eg: (Level 3+))<br>
 Devices can only be equipped into their respective slots, there are four types of slots: Arms, body, head and misc.<br>
 Changing the equipped devices can be done during a long rest.<br>
+The general devices are laid out in the following [list](generalMechanicDevices.md).
 
 At level 1 you have one arm slot and misc slot. You know three devices.
 
@@ -32,7 +33,9 @@ At level 2 you receive an upgrade point
 At second level you choose a subclass that best suits your character.
 
 ### Heavy weight
-Heavy weights are mechanics who favour large bulky devices with a lot of strength. Their solution to problems usually involves punching, tearing and kicking.
+Heavy weights are mechanics who favour large bulky devices with a lot of strength. Their solution to problems usually involves punching, tearing and kicking.<br>
+They get access to the devices from the following [list](heavyWeightDevices.md).
 
 ### Reynard
-They are sly as foxes. Prefer to use traps and well laid out plans to get what they want.
+They are sly as foxes. Prefer to use traps and well laid out plans to get what they want.<br>
+They get access to the devices from the following [list](reynardDevices.md).
