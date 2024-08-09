@@ -25,5 +25,8 @@ Some devices require materials or can only be used infrequently.
 ## Subclasses
 At second level you choose a subclass that best suits your character.
 
+### Heavy weight
+Heavy weights are mechanics who favour large bulky devices with a lot of strength. Their solution to problems usually involves punching, tearing and kicking.
 
-
+### Reynard
+They are sly as foxes. Prefer to use traps and well laid out plans to get what they want.
