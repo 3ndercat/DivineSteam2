@@ -7,11 +7,16 @@ Doctors are an odd breed. Not many of them exist and most that do are military d
 ### Proficiencies:
 Armor: Light armor<br>
 Weapons: Simple weapons<br>
-Saving Throws: Constitution, Intelligence<br>
+Saving Throws: Constitution, Wisdom<br>
 Skills: Medicine and choose two from: Animal Handling, Deception, Insight, Nature, Survival
 
+### Equipment
+Doctors cane(A special cane made for you, on the top is the head of an animal of your choosing). The cane functions as an quarterstaff.
+Any simple weapon
+Leather armor
+
 ### Abilities
-The doctor will make use of a skilltree. Every uneven level you can unlock two abilities in the skilltree, every even level you can unlock one ability.<br> 
+The doctor will make use of a skilltree. Every level you unlock 1 ability. Every third level you can take two abilities.<br> 
 Abilities that are behind other abilities in the tree can only be unlocked if the ability before it is already unlocked. If an ability is behind two other abilities, not both abilities have to be unlocked to gain access to this one. 
 
 ### Skilltree
