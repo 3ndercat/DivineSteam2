@@ -36,6 +36,10 @@ An additional 2 flasks can be loaded. These can be used for jumps or 2 flasks ca
 ### Shield array (Level 5+)
 This is a backpack system that holds 4 shields on mechanical arms. These can be moved to different areas of the mechanic by spending 10ft movement per shield. The areas are front, left, right, back, above. Each shield is +1 AC in their respective area. When all four shields are facing the same way this is an additional +2 AC.
 
+### Kinetic plating
+A plating system in your armour made up of springs and latches<br>
+When hit with a physical weapon the armour plating will absorb some of the impact(-1 damage if it is bludgeoning, piercing or slashing). It can do this two times and it then becomes "charged". On the next hit the latches flip open and release the compressed springs, this causes the attacker to also receive half of the damage dealt. 
+
 ## Misc
 ### Proximity bombs (Level 2+)
 Small rectangular devices that explode upon a creature coming within 5ft. The "target" has to roll a dex save. On a failed save they receive 1d8+Wis fire damage, on a successful save half this.<br>
