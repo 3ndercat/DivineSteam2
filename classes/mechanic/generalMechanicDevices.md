@@ -1,4 +1,6 @@
 ## Arms
+### Auto wrist crossbow
+![](https://static.wikia.nocookie.net/oddworld/images/9/93/Crossbow_Concept_Art_1.jpg/revision/latest/scale-to-width-down/260?cb=20190518104141)
 
 
 ## Head

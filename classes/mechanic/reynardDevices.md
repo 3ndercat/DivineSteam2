@@ -4,7 +4,7 @@ Arm mounted device that hold small missiles. These can be shot at enemies.<br>
 When shooting multiple missiles these can be shot at different targets or multiple at the same target.<br>
 Every missile deals 1d6 damage.<br>
 
-The enemy has to roll a dexterity saving throw.<br>
+The enemy has to roll a dexterity saving throw to see wether the missile hits.<br>
 DC = 8+Prof+Wis
 
 Missiles can be made from silver pieces(1 per missile) during a short rest.
