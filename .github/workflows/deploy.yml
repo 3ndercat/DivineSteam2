@@ -23,5 +23,11 @@ jobs:
           pip install mkdocs mkdocs-material  # Add other plugins here if needed
 
       - name: Deploy to GitHub Pages
+        env:
+          GIT_COMMITTER_NAME: github-actions
+          GIT_COMMITTER_EMAIL: github-actions@github.com
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          mkdocs gh-deploy --force
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          mkdocs gh-deploy --force --remote-name origin
