@@ -1,5 +1,9 @@
 site_name: Divine Steam 2
 nav:
-  - Home: README.md
+  - Home: index.md
   - Classes: 
-    - Steam Warrior: classes/steamWarrior/steamWarrior.md
+    - Steam Warrior: 
+      - Steam Warrior: classes/steamWarrior/steamWarrior.md
+      - Locomotive: classes/steamWarrior/locomotive.md
+      - speed demon: classes/steamWarrior/speedDemon.md
+      - pyro technician: classes/steamWarrior/pyroTechnician.md

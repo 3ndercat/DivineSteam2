@@ -1,4 +1,11 @@
-# Welcome to MkDocs
+# Divine Steam 2
+
+Welcome to the Divine Steam 2 page.<br>
+Here you'll be able to find everything concerning the campaign.<br>
+Susceptible to change.<br><br>
+[Classes](/classes/classes.md)
+
+<!-- # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -14,4 +21,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        ...       # Other markdown pages, images and other files. -->
