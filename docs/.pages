@@ -2,7 +2,7 @@ nav:
   - Home: index.md
   - Classes: 
     - Steam Warrior: 
-      - Steam Warrior: classes/steamWarrior/steamWarrior.md
-      - Locomotive: classes/steamWarrior/locomotive.md
-      - speed demon: classes/steamWarrior/speedDemon.md
-      - pyro technician: classes/steamWarrior/pyroTechnician.md
+      - Steam Warrior: classes/steamWarrior/steamWarrior
+      - Locomotive: classes/steamWarrior/locomotive
+      - speed demon: classes/steamWarrior/speedDemon
+      - pyro technician: classes/steamWarrior/pyroTechnician
