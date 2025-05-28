@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Divine Steam 2
+nav:
+  - Home: README.md
+  - Classes: 
+    - Steam Warrior: classes/steamWarrior/steamWarrior.md
