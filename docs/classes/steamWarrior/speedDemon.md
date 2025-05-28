@@ -1,4 +1,4 @@
-[Go back to class](steamWarrior.md)
+[Go back to class](steamWarrior.html)
 # SpeedDemon
 +5 Movement speed
 

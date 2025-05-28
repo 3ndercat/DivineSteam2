@@ -1,4 +1,4 @@
-[Go back to the class](rogue.md)
+[Go back to the class](rogue.html)
 # Assassin
 Expertise: Hidden weapons
 

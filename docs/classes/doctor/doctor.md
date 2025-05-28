@@ -1,4 +1,4 @@
-[Go back to classes](../classes.md)
+[Go back to classes](../classes.html)
 # Doctor
 Doctors are an odd breed. Not many of them exist and most that do are military doctors in the empire's armies. 
 

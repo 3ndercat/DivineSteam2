@@ -1,4 +1,4 @@
-[Go back to classes](../classes.md)
+[Go back to classes](../classes.html)
 # Airsailor
 The airsaliors are the trusty crew aboard the airships that scale the world. They are equipped with endless knowledge about the world and the weather.
 
@@ -27,10 +27,10 @@ You have an incredible climbing ability giving you a climbing speed of 20 feet. 
 At second level you decide in which type of fleet your character has been his life.
 
 ### Globetrotter
-[Full file](globeTrotter.md)
+[Full file](globeTrotter.html)
 
 ### Eagle
-[Full file](eagle.md)
+[Full file](eagle.html)
 
 ## Level 3
 ### Sea legs

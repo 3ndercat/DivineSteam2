@@ -1,4 +1,4 @@
-[Go back to classes](../classes.md)
+[Go back to classes](../classes.html)
 # Rogue
 
 
@@ -34,13 +34,13 @@ At second level you choose a path in which you expel as an rogue
 
 ### Assassin
 You have mastered the art of silently killing people<br>
-[Full file](assassin.md)
+[Full file](assassin.html)
 
 ### The fraud
-[Full file](fraud.md)
+[Full file](fraud.html)
 
 ### Thief
-[Full file](thief.md)
+[Full file](thief.html)
 
 ## Level 3
 ### Cunning action

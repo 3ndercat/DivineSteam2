@@ -1,4 +1,4 @@
-[Go back to class](steamWarrior.md)
+[Go back to class](steamWarrior.html)
 # PyroTechnician
 
 Resistance to deafness<br>

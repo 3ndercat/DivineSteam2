@@ -1,4 +1,4 @@
-[Go back to classes](../classes.md)
+[Go back to classes](../classes.html)
 # SteamWarrior
 
 ### Hit dice: 1d10 per level
@@ -41,15 +41,15 @@ At second level you choose the training that your warrior went through.
 
 ### Speeddemon
 You use the gas to amplify your speed, you become a low weight speed seeker.
-[Full file](speedDemon.md)
+[Full file](speedDemon.html)
 
 ### The locomotive
 Use gas to enchance your strength, assist your muscles with the pure power of steam.
-[Full file](locomotive.md)
+[Full file](locomotive.html)
 
 ### The pyrotechnician
 Adds a highly volatile flammable liquid to your steam engine. Become a walking flamethrower.
-[Full file](pyroTechnician.md)
+[Full file](pyroTechnician.html)
 
 ## Level 3
 ### Overcharge
