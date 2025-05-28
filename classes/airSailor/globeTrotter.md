@@ -1,4 +1,4 @@
-[Go back to class](airSalior.md)
+[Go back to class](airSailor.md)
 # Globetrotter
 ### Skills: 
 nature
