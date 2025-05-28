@@ -2,15 +2,17 @@ site_name: Divine Steam 2
 
 theme:
     name: material
-    sidebar_color: '#f1f5f9'
+    palette:
+      scheme: slate
+    # sidebar_color: '#f1f5f9'
     favicon: img/favicon.ico
     features:
         - navigation.instant
         - navigation.expand
         - content.tabs.link
 
-extra_css:
-  - stylesheets/extra.css
+# extra_css:
+#   - stylesheets/extra.css
 
 plugins:
     - mermaid2
