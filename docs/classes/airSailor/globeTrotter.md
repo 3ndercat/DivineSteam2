@@ -11,3 +11,4 @@ You can swim faster than most, 20 feet swimming speed. Breathing * 1.5.
 
 ### Resourceful attack
 You can take any item or weapon(even without proficiency) and use it. The damage is always 1d6 bludgeoning, unless it has a point, then it’s 1d6 piercing. Attack roll = 1d20+Dex+1
+cum
