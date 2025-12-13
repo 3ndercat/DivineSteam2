@@ -1,9 +1,10 @@
-# Divine Steam 2
+# Divine Steam
 
-Welcome to the Divine Steam 2 page.<br>
+Welcome to the Divine Steam website.<br>
 Here you'll be able to find everything concerning the campaign.<br>
-Susceptible to change.<br><br>
-[Classes](classes/classes.html)
+Susceptible to changes.<br>
+
+This campaign used to be named Divine Steam 2, as it was the second campaign carrying the Divine Steam title. It has now been chosen to rename the older campaign to Divine Steam Legacy
 
 
 <!-- # Welcome to MkDocs

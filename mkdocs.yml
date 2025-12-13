@@ -1,4 +1,4 @@
-site_name: Divine Steam 2
+site_name: Divine Steam
 
 theme:
     name: material
@@ -37,8 +37,8 @@ theme:
           icon: material/brightness-4
           name: Switch to system preference
 
-extra_css:
-  - stylesheets/extra.css
+# extra_css:
+#   - stylesheets/extra.css
 
 use_directory_urls: false
 
