@@ -1,4 +1,5 @@
 title: Divine Steam 2
 
 nav:
-  - Home: index.md
+  - Divine Steam Home
+    - Home: index.md
