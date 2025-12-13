@@ -1,4 +1,5 @@
 mkdocs
 mkdocs-mermaid2-plugin
+mkdocs-awesome-nav
 mkdocs-awesome-pages-plugin
 mkdocs-material

@@ -19,4 +19,5 @@ use_directory_urls: false
 plugins:
     - search
     - mermaid2
-    - awesome-pages
+    - awesome-nav
+    # - awesome-pages
