@@ -8,7 +8,7 @@ theme:
     favicon: img/favicon.ico
     features:
         - navigation.tabs
-        - navigation.footer
+        # - navigation.footer
         - toc.integrate
         - content.code.annotate
         # - navigation.instant
