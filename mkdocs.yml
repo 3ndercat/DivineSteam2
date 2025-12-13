@@ -9,8 +9,8 @@ theme:
     features:
         - navigation.tabs
         - navigation.footer
-        - toc.integrate
-        - content.code.annotate
+        # - toc.integrate
+        # - content.code.annotate
 
         # - navigation.instant
         # - navigation.expand
