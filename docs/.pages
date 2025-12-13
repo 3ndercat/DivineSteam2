@@ -5,8 +5,3 @@ nav:
       - Magician: classes/Magician/mage
       - Escapist: classes/Magician/escapist
       - Chirurgy: classes/Magician/Chirurgy
-    - Steam Warrior: 
-      - Steam Warrior: classes/steamWarrior/steamWarrior
-      - Locomotive: classes/steamWarrior/locomotive
-      - speed demon: classes/steamWarrior/speedDemon
-      - pyro technician: classes/steamWarrior/pyroTechnician
