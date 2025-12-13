@@ -2,8 +2,8 @@ site_name: Divine Steam 2
 
 theme:
     name: material
-    palette:
-      scheme: slate
+    # palette:
+    #   scheme: slate
     # sidebar_color: '#f1f5f9'
     favicon: img/favicon.ico
     features:
@@ -15,6 +15,27 @@ theme:
         # - navigation.instant
         # - navigation.expand
         # - content.tabs.link
+
+
+    palette:
+      - media: "(prefers-color-scheme)"
+        toggle:
+          icon: material/brightness-auto
+          name: Switch to light mode
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        primary: deep purple
+        accent: deep purple
+        toggle:
+          icon: material/brightness-7
+          name: Switch to dark mode
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: deep purple
+        accent: deep purple
+        toggle:
+          icon: material/brightness-4
+          name: Switch to system preference
 
 extra_css:
   - stylesheets/extra.css
