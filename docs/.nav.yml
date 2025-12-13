@@ -1,4 +1,7 @@
 nav:
   - Home: index.md
   - Classes: 
-    - "*"
+    - Magician: classes/Magician/mage
+      - Magician: classes/Magician/mage
+      - Escapist: classes/Magician/escapist
+      - Chirurgy: classes/Magician/chirurgy
