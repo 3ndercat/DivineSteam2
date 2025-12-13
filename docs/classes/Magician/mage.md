@@ -8,7 +8,7 @@ The art of **Thaumaturgy** requires rumorous training to harness. Most Magicians
 
 ## The Magician Table
 
-# Magician Features
+## Magician Features
 As a Magician your Primry Ability Score is either ***Intelligence*** or ***Charisma*** (you may choose one), and you have the following Class Features:
 
 ### Hit Points
@@ -57,9 +57,9 @@ If this effect causes you to become so exhausted that you will die, then you may
 Starting at 2nd level, your basic training as a **Magician** allows you to recuperate faster than most. Whenever you take at least one level of Exhaustion from the *Force of Will* ability, you may remove 1 level of Exhaustion on a ***Short Rest*** and 2 on a ***Long Rest***.
 
 ## Level 3
-### Thaumaturgical College
+### Magician College
 Starting at 3rd level, you choose a thaumaturgical college to focus your magical studies. <br>
-Choose from **Chirurgy**, **Manipulator** and [**Escapist**](escapist.html). Your archetype grants you features at 3rd, 7th, 11th, 15th, and 18th level.
+Choose from [**Chirurgy**](chirurgy.html), **Manipulator** and [**Escapist**](escapist.html). Your archetype grants you features at 3rd, 7th, 11th, 15th, and 18th level.
 
 ## Level 4
 ### Ability Score Improvement
@@ -86,6 +86,7 @@ You have a number of uses equal to your Spellcasting Ability Modifier.
 
 
 ## Level 10
+### Sustained Appetance
 At 10th level, your magical conduit has stabilized.
 
 When you roll initiative and have no **Appetance** remaining, you regain **Appetance** equal to your spellcasting ability modifier (minimum of 1).<br>

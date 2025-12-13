@@ -1,4 +1,6 @@
 # Escapist
+The Escapist is a master of misdirection, agility, and theatrical flair. Their magic and skill are focused on slipping free from danger, evading attacks, and turning escape into performance. Every gesture, step, and flick of the wrist is calculated to confound opponents and control the battlefield, making them unpredictable and elusive. Through rigorous training, quick thinking, and minor thaumaturgy, Escapists turn every threat into an opportunity to amaze, disappear, or vanish into safety—leaving their foes bewildered and their audience captivated.
+
 ## Level 3
 ### Slip through
 At 3rd level, you have learned to move like water through a crowd, a battlefield, or a trap-laden dungeon.
