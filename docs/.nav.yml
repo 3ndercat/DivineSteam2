@@ -4,4 +4,4 @@ sort:
 nav:
   - Divine Steam Home:
     - Home: index.md
-  - "*"
+  - classes
