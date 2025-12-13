@@ -1,0 +1,5 @@
+nav:
+  - Magician:
+    - Magician: classes/Magician/mage
+    - Escapist: classes/Magician/escapist
+    - Chirurgy: classes/Magician/chirurgy
