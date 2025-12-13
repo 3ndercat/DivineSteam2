@@ -1,0 +1,5 @@
+# Founding
+Ardaw is a land founded by survivors of the war of the gods. Built in a rainforest on the side of a mountain. Ardaw spreads beyond the rainforest, into the desert next to it. In this desert live people who originally lived there, before the war of the gods turned it into a wasteland. A later generation of Ardaw decided to include the desert into its kingdom, and help the people there. The people in the desert did not want help, and thus there became conflict between the desert folk and the rulers. This has resulted in the desert being mostly ignored and just taxed by the Ardaw king and government. 
+
+# Technology
+The mountain against which Ardaw is built, hosts the corpses of multiple gods. This causes it to be a great source of divinium. The people of Ardaw call it rune-ore, which they use to craft runes to power their technology. This is done by scientists and the development of this is prestigious but slow. 
