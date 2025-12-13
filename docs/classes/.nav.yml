@@ -2,6 +2,6 @@ nav:
   # - "*"
   - Magician:
     - Magician: Magician/mage.md
-      - Escapist: Magician/escapist.md
-      - Chirurgy: Magician/chirurgy.md
-      - SubClass: Magician/subclasstest.md
+    - Escapist: Magician/escapist.md
+    - Chirurgy: Magician/chirurgy.md
+    - SubClass: Magician/subclasstest.md
