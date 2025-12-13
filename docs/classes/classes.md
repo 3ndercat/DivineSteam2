@@ -2,4 +2,4 @@
 # Classes
 
 These are all the classes currently available:<br>
-[Nagician](Magician/mage.html)
+[Magician](Magician/mage.html)
