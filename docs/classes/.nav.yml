@@ -1,6 +1,6 @@
 nav:
   - Magician:
-    - Magician: classes/Magician/mage
-    - Escapist: classes/Magician/escapist
-    - Chirurgy: classes/Magician/chirurgy
-    - SubClass: classes/Magician/subclasstest
+    - Magician: classes/Magician/mage.md
+    - Escapist: classes/Magician/escapist.md
+    - Chirurgy: classes/Magician/chirurgy.md
+    - SubClass: classes/Magician/subclasstest.md

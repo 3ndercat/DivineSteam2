@@ -1,3 +1,6 @@
+sort:
+  sections: mixed
+
 nav:
-  - Divine Steam Home
+  - Divine Steam Home:
     - Home: index.md
