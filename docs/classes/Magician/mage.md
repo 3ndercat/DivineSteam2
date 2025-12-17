@@ -1,4 +1,6 @@
 # Magician
+![](../../img/magicianart.png)
+
 The combination of spectacle and magic is what the modern day wizard, sorcerer and bard have become. The preserved knowledge of families about the **Arcane** is what allows somebody's inherent energy come to fruition. By shaping a spell and exerting it within the art of **Thaumaturgy**, the Magician makes the impossible possible. Wheter that be through the shock of healing wounds at an instant, or through the comedic and whimsical displays of dissapearance. 
 
 Though the era of mages regrowing limbs and teleporting across realms is over, mordern magicians can still put their power to use. Kowledge on the supernaturnal and occult have made Magicians believe that they are nescessary to keep the world safe, while also keeping the masses entertained.
