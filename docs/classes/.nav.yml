@@ -1,4 +1,5 @@
 nav:
+  - Class home: classes.md
   - Magician:
     - Magician: Magician/mage.md
     - Subclasses:
