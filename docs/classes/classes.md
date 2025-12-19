@@ -12,7 +12,7 @@ Subclasses are still being chosen <br>
 - Articifer
 
 ## Divine Steam specific classes
-- [Magician](mage.html)
+- [Magician](Magician/mage.html)
 
 ## Divine Steam specific subclasses
 t.b.d.
