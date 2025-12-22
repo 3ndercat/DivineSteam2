@@ -1,7 +1,7 @@
 nav:
   - Class home: classes.md
   - Magician:
-    - Magician: Magician/mage.md
+    - Magician: magician/mage.md
     - Subclasses:
-      - Escapist: Magician/escapist.md
-      - Chirurgy: Magician/chirurgy.md
+      - Escapist: magician/escapist.md
+      - Chirurgy: magician/chirurgy.md
