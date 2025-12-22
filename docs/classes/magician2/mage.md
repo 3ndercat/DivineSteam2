@@ -24,6 +24,7 @@ As a Magician your Primry Ability Score is either ***Intelligence*** or ***Chari
 **Tools:** None <br>
 **Saving Throws:** Intelligince, Charisma <br>
 **Skills:** Choose 3 from Sleight of Hand, Arcana, History, Investigation, Medicine, Deception, Performance
+
 ## Level 1
 ### Thaumaturgy
 You are trained in the magical art of **Thaumaturgy**. You’ve turned your body into a conduit for magic though spectacle. You draw magical energy from your surroundigs and reshape it into something new. The energy; also known as ***Appetance***, is used to create such spells and returns to you once their power has been unleashed.
