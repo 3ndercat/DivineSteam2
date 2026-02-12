@@ -1,18 +1,14 @@
 # Class home
 Welcome to the Divine Steam classes. Below are a list of classes allowed from source material. And Additional (sub)classes written for Divine Steam
 
-## Source Material
-All these are from the 2024 PHB & 2025 Eberron <br>
-Subclasses are still being chosen <br>
-
-- Barbarian
-- Fighter
-- Monk
-- Rogue
-- Articifer
-
-## Divine Steam specific classes
-- [Magician](magician/mage.html)
-
-## Divine Steam specific subclasses
-t.b.d.
+# Classes & Subclasses
+- [Magician(DS Original)](magician/mage.html)
+    - [Escapist](magician/escapist.md)
+    - [Mage](magician/mage.md)
+- [Barbarian](http://dnd2024.wikidot.com/barbarian:main)
+- [Fighter](http://dnd2024.wikidot.com/fighter:main)
+    - [Eldritch knight(DS Rework)](subclasses/EldritchKnight.md)
+- [Monk](http://dnd2024.wikidot.com/monk:main)
+    - [Butler](subclasses/butler.md)
+- [Rogue](http://dnd2024.wikidot.com/rogue:main)
+    - [Arcane trickster(DS Rework)](subclasses/ArcaneTrickster.md)
