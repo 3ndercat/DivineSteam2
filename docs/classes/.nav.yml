@@ -5,3 +5,6 @@ nav:
     - Subclasses:
       - Escapist: magician/escapist.md
       - Chirurgy: magician/chirurgy.md
+  - DS Reworked Subclasses:
+    - Eldritch Knight: subclasses/EldritchKnight.md
+    - Arcane Trickster: subclasses/ArcaneTrickster.md
