@@ -1,9 +1,9 @@
 # Magician
-![](../../img/magicianart.png)
+![alt text](image.png)
 
-The combination of spectacle and magic is what the modern day wizard, sorcerer and bard have become. The preserved knowledge of families about the **Arcane** is what allows somebody's inherent energy come to fruition. By shaping a spell and exerting it within the art of **Thaumaturgy**, the Magician makes the impossible possible. Wheter that be through the shock of healing wounds at an instant, or through the comedic and whimsical displays of dissapearance. 
+The combination of spectacle and magic is what the modern day wizard, sorcerer and bard have become. The preserved knowledge of families about the **Arcane** is what allows somebody's inherent energy come to fruition. By shaping a spell and exerting it within the art of **Thaumaturgy**, the Magician makes the impossible possible. Whether that be through the shock of healing wounds at an instant, or through the comedic and whimsical displays of dissapearance. 
 
-Though the era of mages regrowing limbs and teleporting across realms is over, mordern magicians can still put their power to use. Kowledge on the supernaturnal and occult have made Magicians believe that they are nescessary to keep the world safe, while also keeping the masses entertained.
+Though the era of mages regrowing limbs and teleporting across realms is over, mordern magicians can still put their power to use. Knowledge on the supernaturnal and occult have made Magicians believe that they are nescessary to keep the world safe, while also keeping the masses entertained.
 
 The art of **Thaumaturgy** requires rumorous training to harness. Most Magicians must start training from a young age to truly harness. This costs time and money, and thus, the role of Magician is often placed upon nobles.
 <br>
@@ -24,7 +24,6 @@ As a Magician your Primry Ability Score is either ***Intelligence*** or ***Chari
 **Tools:** None <br>
 **Saving Throws:** Intelligince, Charisma <br>
 **Skills:** Choose 3 from Sleight of Hand, Arcana, History, Investigation, Medicine, Deception, Performance
-
 ## Level 1
 ### Thaumaturgy
 You are trained in the magical art of **Thaumaturgy**. You’ve turned your body into a conduit for magic though spectacle. You draw magical energy from your surroundigs and reshape it into something new. The energy; also known as ***Appetance***, is used to create such spells and returns to you once their power has been unleashed.
@@ -33,7 +32,7 @@ You are trained in the magical art of **Thaumaturgy**. You’ve turned your body
 At 1st level, you know three cantrips of your choice from the **Magician** spell list. You learn additional **Magician** cantrips of your choice at higher levels, as shown in the Cantrips Known column of the ***Magician** table.
 
 #### Spells
-You have a pool of ***Appetance*** equal to your Level. You spend ***Appetance*** from this pool whenever you wish to cast a spell
+You have a pool of ***Appetance*** equal to twice your Level. You spend ***Appetance*** from this pool whenever you wish to cast a spell
 
 You learn two spells at 1st level from the **Magician** spell list. <br>
 Since magic has been lost in the world, you are not able to  learn any spells whenever you level up. To acquire more spells, you must acquire them through **scrolls**, **passed on knowledge**, or rugirous **observation** within the world.
@@ -51,8 +50,8 @@ In addition, you use your ***Intelligence*** or ***Charisma*** Bonus when settin
 You can spend your body’s energy to provide more
 ***Appetance*** when necessary.<br>
 
-In addition you may spend Hit Dice and accept levels of Exhaustion if you do not have enough ***Appetance*** to cast a spell. You may only spend Hit Dice equal to half the spells level rounded up, while the rest of the spell must be fueled with levels of Exhaustion.<br>
-For example: With 1 ***Appetance***, casting a 4th level spell will cost 1 ***Appetance***, 2 Hit Dice and 1 Exhaustion.<br>
+In addition you may spend Hit Dice and accept levels of Exhaustion ***Appetance*** to cast a spell. You may only spend Hit Dice equal to half the spells level rounded up, while the rest of the spell must be fueled with levels of Exhaustion or ***Appetance***.<br>
+For example: Using 1 ***Appetance***, casting a 4th level spell will cost 1 ***Appetance***, 2 Hit Dice and 1 Exhaustion.<br>
 If this effect causes you to become so exhausted that you will die, then you may still act for the remainder of your turn before dying, enabling you to cast the spell that drained you.
 
 ## Level 2
@@ -93,5 +92,5 @@ You have a number of uses equal to your Spellcasting Ability Modifier.
 At 10th level, your magical conduit has stabilized.
 
 When you roll initiative and have no **Appetance** remaining, you regain **Appetance** equal to your spellcasting ability modifier (minimum of 1).<br>
-Additionally, once per ***Short Rest***, when you cast a spell using Force of Will, you may choose to reduce the total Exhaustion cost of that casting by 1.
+Additionally, twice per ***Short Rest***, when you cast a spell using Force of Will, you may choose to reduce the total Exhaustion cost of that casting by 1.
 
