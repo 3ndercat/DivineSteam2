@@ -1,5 +1,5 @@
 # Magician
-![alt text](image.png)
+![alt text](../../img/magicianart.png)
 
 The combination of spectacle and magic is what the modern day wizard, sorcerer and bard have become. The preserved knowledge of families about the **Arcane** is what allows somebody's inherent energy come to fruition. By shaping a spell and exerting it within the art of **Thaumaturgy**, the Magician makes the impossible possible. Whether that be through the shock of healing wounds at an instant, or through the comedic and whimsical displays of dissapearance. 
 
