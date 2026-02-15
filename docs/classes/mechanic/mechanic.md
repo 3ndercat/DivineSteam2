@@ -42,3 +42,6 @@ The mechanic carries a certain amount of materials on themselves which they use 
 
 
 
+## Level 3
+### Mechanical philosophy
+At third level you continue into a specific mechanical philosophy, these have specific equipments, devices and abilities.
