@@ -65,7 +65,7 @@ Choose from [**Chirurgy**](chirurgy.html), **Manipulator** and [**Escapist**](es
 
 ## Level 4
 ### Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may also choose a feat instead.
+You gain the Ability Score Improvement feat(Chapter 5 PHB) or another feat of your choice for which you qualify. You gain this feature again at Mage level 8, 12 and 16
 
 ## Level 5
 
