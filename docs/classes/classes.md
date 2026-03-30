@@ -15,7 +15,7 @@ Welcome to the Divine Steam classes. Below are a list of classes allowed from so
     - [Eldritch knight(DS Rework)](subclasses/EldritchKnight.md)
     - [Psi warrior](http://dnd2024.wikidot.com/fighter:psi-warrior)
 - [Monk](http://dnd2024.wikidot.com/monk:main)
-    - [Butler](subclasses/butler.md)
+    - [Butler(DS Original)](subclasses/butler.md)
     - [Plague doctor: Warrior of mercy](http://dnd2024.wikidot.com/monk:warrior-of-mercy)
     - [Warrior of shadow](http://dnd2024.wikidot.com/monk:warrior-of-shadow)
     - [Warrior of the open hand](http://dnd2024.wikidot.com/monk:warrior-of-the-open-hand)

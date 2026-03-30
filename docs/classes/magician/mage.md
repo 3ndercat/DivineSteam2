@@ -28,16 +28,11 @@ As a Magician your Primry Ability Score is either ***Intelligence*** or ***Chari
 ### Thaumaturgy
 You are trained in the magical art of **Thaumaturgy**. You’ve turned your body into a conduit for magic though spectacle. You draw magical energy from your surroundigs and reshape it into something new. The energy; also known as ***Appetance***, is used to create such spells and returns to you once their power has been unleashed.
 
-#### Cantrips
-At 1st level, you know three cantrips of your choice from the **Magician** spell list. You learn additional **Magician** cantrips of your choice at higher levels, as shown in the Cantrips Known column of the ***Magician** table.
+#### Spellcasting
+You have a pool of ***Appetance*** equal to twice your Level. You spend ***Appetance*** from this pool whenever you wish to cast a spell. You can cast any spell that you know at any time, as long as you have sufficient ***Appetance*** remaining. You regain all spent ***Appetance*** when you finish a Long Rest.
 
-#### Spells
-You have a pool of ***Appetance*** equal to twice your Level. You spend ***Appetance*** from this pool whenever you wish to cast a spell
-
-You learn two spells at 1st level from the **Magician** spell list. <br>
-Since magic has been lost in the world, you are not able to  learn any spells whenever you level up. To acquire more spells, you must acquire them through **scrolls**, **passed on knowledge**, or rugirous **observation** within the world.
-
-You can cast any spell that you know at any time, as long as you have sufficient ***Appetance*** remaining. You regain all spent ***Appetance*** when you finish a Long Rest.
+#### Spell learning
+You can cast and learn spells from **scrolls**. It also possible to learn from **passed on knowledge**, or rugirous **observation** within the world. You can learn difficulty 1 and 2 spells by heart, you can cast difficulty 3 spells but need to read from **scrolls** them while casting.
 
 #### Spellcasting Ability
 ***Intelligence*** or ***Charisma*** is your spellcasting ability for your ***Magician*** spells. You use your ***Intelligence*** or ***Charisma*** whenever a spell refers to your spellcasting ability. <br>
