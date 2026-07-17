@@ -63,6 +63,10 @@ Choose from [**Chirurgy**](chirurgy.html), **Manipulator** and [**Escapist**](es
 You gain the Ability Score Improvement feat(Chapter 5 PHB) or another feat of your choice for which you qualify. You gain this feature again at Mage level 8, 12 and 16
 
 ## Level 5
+## Casting profiency
+You become so proficient with casting spells that you can cast a spell as a bonus action if the spell's level is lower than your profiency bonus.
+
+## Level 6
 ## Arcane Flourish
 At 6th level, your mastery of magical spectacle allows you to create a performance through the manipulation of the world.<br>
 As an Action you can perform a Flourish, a dramatic, deliberate act that reshapes how the spell manifests.
@@ -76,12 +80,6 @@ A Flourish grants one temporary magical effect of your choice:
 - **Dramatic Presence.** The Flourish leaves a lasting impression. Any creature that sees it may be awed or intimidated. The DM can grant a reaction bonus on a Persuasion, Intimidation, or Deception check at the start of their next turn.
 
 You have a number of uses equal to your Spellcasting Ability Modifier.
-
-## Level 6
-## Casting profiency
-You become so proficient with casting spells that you can cast a spell as a bonus action if the spell's level is lower than your profiency bonus.
-
-(Can also maybe be done an amount of times equal to the proficiency bonus(Or spellcasting mod) per shortrest to balance it if it is OP. Sedat please check and advice)
 
 ## Level 8
 ### Ability Score Improvement

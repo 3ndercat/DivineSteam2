@@ -42,6 +42,8 @@ During a long rest you can work on your equipment. This is done through tinkerer
 - Dismantling equipment(Turn equipment back into the materia it cost)
 - Assembling equipment(Spent materia to make equipment)
 
+Equipment is often worn on the body. You can not overlap equipment on the same body part. The only exception is armour which can overlap with other equipment.
+
 ## Level 2
 You now have access to the "defensive" category
 
