@@ -45,17 +45,17 @@ In addition, you use your ***Intelligence*** or ***Charisma*** Bonus when settin
 You can spend your body’s energy to provide more
 ***Appetance*** when necessary.<br>
 
-In addition you may spend Hit Dice and accept levels of Exhaustion ***Appetance*** to cast a spell. You may only spend Hit Dice equal to half the spells level rounded up, while the rest of the spell must be fueled with levels of Exhaustion or ***Appetance***.<br>
-For example: Using 1 ***Appetance***, casting a 4th level spell will cost 1 ***Appetance***, 2 Hit Dice and 1 Exhaustion.<br>
+In addition you may spend Hit Dice and accept levels of  ***Magic Exhaustion*** to cast a spell. You may only spend Hit Dice equal to half the spells level rounded up, while the rest of the spell must be fueled with levels of ***Magic Exhaustion*** or ***Appetance***.<br>
+For example: Using 1 ***Appetance***, casting a 4th level spell will cost 1 ***Appetance***, 2 Hit Dice and 1 ***Magic Exhaustion***.<br>
 If this effect causes you to become so exhausted that you will die, then you may still act for the remainder of your turn before dying, enabling you to cast the spell that drained you.
 
 ## Level 2
 ### The Show Must Go On
-Starting at 2nd level, your basic training as a **Magician** allows you to recuperate faster than most. Whenever you take at least one level of Exhaustion from the *Force of Will* ability, you may remove 1 level of Exhaustion on a ***Short Rest*** and 2 on a ***Long Rest***.
+Starting at 2nd level, your basic training as a **Magician** allows you to recuperate faster than most. Whenever you take at least one level of ***Magic Exhaustion*** from the *Force of Will* ability, you may remove 1 level of ***Magic Exhaustion*** on a ***Short Rest*** and 2 on a ***Long Rest***.
 
 ## Level 3
-### Magician College
-Starting at 3rd level, you choose a thaumaturgical college to focus your magical studies. <br>
+### Magicians Phylosphy
+Starting at 3rd level, you choose a thaumaturgical college to focus your magical ideas. <br>
 Choose from [**Chirurgy**](chirurgy.html), **Manipulator** and [**Escapist**](escapist.html). Your archetype grants you features at 3rd, 7th, 11th, 15th, and 18th level.
 
 ## Level 4
@@ -87,5 +87,5 @@ You have a number of uses equal to your Spellcasting Ability Modifier.
 At 10th level, your magical conduit has stabilized.
 
 When you roll initiative and have no **Appetance** remaining, you regain **Appetance** equal to your spellcasting ability modifier (minimum of 1).<br>
-Additionally, twice per ***Short Rest***, when you cast a spell using Force of Will, you may choose to reduce the total Exhaustion cost of that casting by 1.
+Additionally, when you cast a spell using Force of Will, you may choose to reduce the total ***Magic Exhaustion*** cost of that casting by 1. This is allowed an amount of times equal to your profiency bonus per ***Long Rest***.
 
