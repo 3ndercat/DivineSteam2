@@ -36,18 +36,18 @@ Skills: Choose two from History, Investigation, Insight, Sleight of hand, Medici
 
 ## Level 1
 ### Mechanics tinkering
-The mechanic carries a certain amount of materials on themselves which they use to create their equipment. This is a pool called: Materia. Every piece of equipment has a certain cost, the pool grows throughout the levels as they get more pro- and efficient. At level 1 there is 2 materia available. You can make equipment from the "items" category.
+The mechanic carries a certain amount of materials on themselves which they use to create their equipment. This is a pool called: Materia. Every piece of equipment has a certain cost, the pool grows throughout the levels as they get more pro- and efficient. At level 1 there is 2 materia available.
 
-During a long rest you can work on your equipment. You can perform three tinkering actions:
-Dismantling equipment(Turn equipment back into the materia it cost) 
-Assembling equipment(Spent materia to make equipment)
+During a long rest you can work on your equipment. This is done through tinkerers actions. You can perform three tinkerers actions during your long rest. Your current actions are:
+- Dismantling equipment(Turn equipment back into the materia it cost)
+- Assembling equipment(Spent materia to make equipment)
 
 ## Level 2
 You now have access to the "defensive" category
 
 ## Level 3
-### Mechanical philosophy
-At third level you continue into a specific mechanical philosophy, these have specific equipments, devices and abilities.
+### Mechanical expertise
+At third level you continue into a specific mechanical expertise, in this you develop more specialised devices and abilities. 
 
 ## Level 4
 ### Ability score improvement
@@ -57,4 +57,4 @@ You gain the Ability Score Improvement feat(Chapter 5 PHB) or another feat of yo
 ### Tinkerers flexibility
 You can now perform four tinkering actions during a long rest, and one during a short rest.
 You also gain the tinkerers action:
-Reassembling equipment(Turn equipment into another piece of equipment of the same materia cost)
+Transforming equipment(Turn equipment into another piece of equipment of the same materia cost)
