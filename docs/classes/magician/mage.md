@@ -81,6 +81,9 @@ A Flourish grants one temporary magical effect of your choice:
 
 You have a number of uses equal to your Spellcasting Ability Modifier.
 
+## Level 8
+### Ability Score Improvement
+You gain the Ability Score Improvement feat(Chapter 5 PHB) or another feat of your choice for which you qualify. You gain this feature again at Mage level 12 and 16
 
 ## Level 10
 ### Sustained Appetance
@@ -89,3 +92,10 @@ At 10th level, your magical conduit has stabilized.
 When you roll initiative and have no **Appetance** remaining, you regain **Appetance** equal to your spellcasting ability modifier (minimum of 1).<br>
 Additionally, when you cast a spell using Force of Will, you may choose to reduce the total ***Magic Exhaustion*** cost of that casting by 1. This is allowed an amount of times equal to your profiency bonus per ***Long Rest***.
 
+## Level 12
+### Ability Score Improvement
+You gain the Ability Score Improvement feat(Chapter 5 PHB) or another feat of your choice for which you qualify. You gain this feature again at Mage level 16
+
+## Level 16
+### Ability Score Improvement
+You gain the Ability Score Improvement feat(Chapter 5 PHB) or another feat of your choice for which you qualify
