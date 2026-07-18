@@ -42,14 +42,16 @@ During a long rest you can work on your equipment. This is done through tinkerer
 - Dismantling equipment(Turn equipment back into the materia it cost)
 - Assembling equipment(Spent materia to make equipment)
 
-Equipment is often worn on the body. You can not overlap equipment on the same body part. The only exception is armour which can overlap with other equipment.
+Equipment is often worn on the body. You can not overlap equipment on the same body part. Body parts are: Left and right lower- & upperlegs, lower- & upper arms. Hips, torso and head. The only exception is armour which can overlap with non-armour equipment.
+Some equipment are weapons, you have profiency on weapon equipment.
 
 ## Level 2
-You now have access to the "defensive" category
+### Masterpiece
+When using tinkerers actions, you can choose one piece of weapon equipment you have assembled, and gain weapon mastery for this weapon. You can only have weapon mastery with one weapon equipment at a time. 
 
 ## Level 3
 ### Mechanical expertise
-At third level you continue into a specific mechanical expertise, in this you develop more specialised devices and abilities. 
+At third level you continue into a specific mechanical expertise, in this you develop more specialised devices and abilities. Choose from the: [Brass Behemoth](brassBehemoth.html), [Reynard](reynard.html) and [Necrochanic](necrochanic.html)
 
 ## Level 4
 ### Ability score improvement
