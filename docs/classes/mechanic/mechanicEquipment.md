@@ -1,9 +1,4 @@
-# Tools
-# Utility
-## 
-
-
-# Offensive
+# Level 1
 ## Wrist crossbow
 Cost: 1 Materia
 | 1d6 piercing | Range 30/120, bolt | Light | Loading | Vex |
@@ -12,7 +7,10 @@ Cost: 1 Materia
 Takes up a lower arm. Does not obstruct hand of wielding another weapon. Does obstruct shield carrying in this arm. <br>
 Can be fired as a bonus action
 
-# Defensive
+# Level 2
+## 
+
+# Level 3
 ## Kinetic armour
 Cost: 2 Materia <br>
 Medium armour | AC: 13+Dex mod(max 2)
